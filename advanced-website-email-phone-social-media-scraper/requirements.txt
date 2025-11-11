@@ -1,0 +1,5 @@
+requests
+beautifulsoup4
+
+advanced-website-email-phone-social-media-scraper/.keep
+textThis file keeps the directory structure intact.
